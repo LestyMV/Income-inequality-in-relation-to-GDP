@@ -1,6 +1,6 @@
-For this assignment you need to answer the following question:
-
 # Income-inequality-in-relation-to-GDP
+
+For this assignment you need to answer the following question:
 
 Is there a relation between a country's Gross Domestrict Product (GDP) and its income inequality?
 
